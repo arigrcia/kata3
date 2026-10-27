@@ -4,9 +4,12 @@ out/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
-.class
-.idea/
-output.json
+*.class
+bin/
+*.jar
+*.war
+*.zip
+*.exe
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
